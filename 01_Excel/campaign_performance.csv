@@ -1,0 +1,7 @@
+Campaign_ID,Campaign_Name,Channel,Campaign_Cost,Leads,Conversions,Revenue,ROI
+CMP001,Summer Sale,Instagram,85000,1850,230,425000,400.0
+CMP002,Festive Offers,Google Ads,110000,2400,320,610000,454.54545454545456
+CMP003,New User Offer,Email,65000,2100,355,520000,700.0
+CMP004,Weekend Flash,Instagram,72000,1650,195,350000,386.11111111111114
+CMP005,Loyalty Rewards,Email,50000,1300,250,480000,860.0
+CMP006,Year End Sale,Google Ads,125000,2750,365,710000,468.0

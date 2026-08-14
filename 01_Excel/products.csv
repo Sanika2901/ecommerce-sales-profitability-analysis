@@ -1,0 +1,26 @@
+Product_ID,Product_Name,Category,Unit_Price,Unit_Cost
+P001,Wireless Earbuds,Electronics,6748,4695.17
+P002,Smartwatch,Electronics,6053,3796.4
+P003,Bluetooth Speaker,Electronics,5857,3883.91
+P004,Power Bank,Electronics,2776,1530.45
+P005,Keyboard,Electronics,1046,807.54
+P006,Sneakers,Fashion,4933,3611.45
+P007,Hoodie,Fashion,5886,3178.13
+P008,Jeans,Fashion,3129,1758.81
+P009,T-Shirt,Fashion,1097,712.85
+P010,Backpack,Fashion,3310,2109.97
+P011,Desk Lamp,Home,7881,6026.38
+P012,Coffee Maker,Home,5080,2793.69
+P013,Bedsheet,Home,6435,4995.55
+P014,Storage Box,Home,6801,4221.32
+P015,Water Bottle,Home,5978,4066.66
+P016,Face Wash,Beauty,7713,5310.71
+P017,Moisturizer,Beauty,4817,3075.17
+P018,Shampoo,Beauty,6660,5091.78
+P019,Perfume,Beauty,7745,4299.97
+P020,Sunscreen,Beauty,7452,4168.44
+P021,Coffee,Grocery,5045,2967.68
+P022,Green Tea,Grocery,5915,3970.45
+P023,Dry Fruits,Grocery,5137,3830.78
+P024,Protein Bar,Grocery,972,537.49
+P025,Olive Oil,Grocery,7392,5142.33
